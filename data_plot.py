@@ -39,7 +39,7 @@ ax.set_ylabel("y", size = 14)
 ax.set_zlabel("z", size = 14)
 
 # 軸の範囲を設定
-axis_range = 200
+axis_range = 20
 ax.set_xlim(-axis_range, axis_range)
 ax.set_ylim(-axis_range, axis_range)
 ax.set_zlim(-axis_range, 0)
